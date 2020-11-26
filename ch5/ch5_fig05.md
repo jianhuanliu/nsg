@@ -1,6 +1,6 @@
 - [Main content](ch5_main.md)
 - [Prev figure](ch5_fig04.md)
-- [Next figure](ch5_fig06.md)
+- [Next figure](ch5_fig67.md)
 
 <img src="Figs/ch5_fig05.png" alt="Figure 05" style="zoom: 135%;" />.
 **Figure 5:** (a) A typical shot gather as in data in Figure 3(c), with source positioned at 18.5 m; (b) local wavefield around 30th receiver extracted from Figure 5(a) using a Gaussian window with a width of 8 m; (c) dispersion image of the data in Figure 5(b) calculated by a slant-stack procedure. The black line denotes the picked Love-wave dispersion curve of fundamental mode, which is used to invert the 1D profile under the 30th receiver.
