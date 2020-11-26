@@ -3,6 +3,7 @@
 - [Next figure](ch5_fig04.md)
 
 <img src="Figs/ch5_fig03.png" alt="Figure 03"  />
+
 **Figure  3:** (a) A typical preprocessed SH-wave shot gather from the field data acquired along Line A using S-wave vibrator as the source. The preprocessing steps include trace editing, band-pass filtering; (b) retrieved Love waves from the gather as shown in Figure 3(a); (c) result after convolution of the data in (b) with a non-stationary matching filter to account for the inaccurancy of retrieval during the procedure of SVI; (d) result after subtraction of Figure 3(c) from Figure 3(a). (e), (f), (g), (h) are the same with (a), (b), (c), (d), but for a common-source gather with a different source position. Every second trace between are presented.
     
 
