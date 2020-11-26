@@ -1,6 +1,6 @@
 - [Main content](ch5_main.md)
 - [Prev figure](ch5_fig05.md)
-- [Next figure](ch5_fig07.md)
+- [Next figure](ch5_fig09.md)
 
 <img src="Figs/ch5_fig08.png" alt="Figure 06" style="zoom: 200%;" />.
 **Figure 8:** Estimated source wavelets for the 105 shot gathers with a bandwidth between 5 and 80 Hz. These source signatures were obtained by deconvolution of recorded data with the Green's function according to equation (2).
