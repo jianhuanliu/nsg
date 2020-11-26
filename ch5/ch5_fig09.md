@@ -3,6 +3,7 @@
 - [Next figure](ch5_fig10.md)
 
 <img src="Figs/ch5_fig09.png" alt="Figure 06" style="zoom: 120%;" />.
+
 **Figure 9:** Evolution of misfit value calculated with equation (1) during FWI.
     
 
