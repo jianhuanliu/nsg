@@ -3,6 +3,7 @@
 - [Next figure](ch5_fig03.md)
 
 ![Figure 02](Figs/ch5_fig02.png)
+
 **Figure 2:** Source-receiver geometry used to acquire 2D seismic data along the Line A in a roll-along mode. The triangles represent horizontal, 10 Hz, single-component component geophones we used to recored the seismic data. Every fouth source and receiver positions are displayed.
     
 
