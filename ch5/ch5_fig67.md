@@ -3,6 +3,7 @@
 - [Next figure](ch5_fig08.md)
 
 <img src="Figs/ch5_fig06.png" alt="Figure 06" style="zoom: 100%;" />.
+
 **Figure 6:** Results for 1D Neighborhood Algorithm (NA) inversion of picked dispersion data (blacked line in Figure 5c). (a) Comparison between picked dispersion curve of fundamental mode and the calculated dispersion curves from accepted models within misfit less than 1.0 (b) Invered S-wave velocity structure. Theoretical dispersion and corresponging S-wave velocity models are represented with misfit-based colors. 
 
 
