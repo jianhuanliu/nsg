@@ -5,7 +5,7 @@
 
 [^1]: Delft University of Techonlogy
 
-This text is used to prepare contents fro the 5st paper
+This text is used to prepare contents for the 5st paper. All the text and figures are still in their raw version.
 
 - [Figure (2)](ch5_fig02.md)
 - [Figure (3)](ch5_fig03.md)
