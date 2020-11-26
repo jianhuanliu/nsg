@@ -3,6 +3,7 @@
 - [Next figure](ch5_fig05.md)
 
 <img src="Figs/ch5_fig04.png" alt="Figure 04" style="zoom: 200%;" />.
+
 **Figure 4:** Average frequency spectrum of the 105 common-source gathers similar to data as in Figure 3(c).
     
 
