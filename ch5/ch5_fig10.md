@@ -3,6 +3,7 @@
 - [Next figure](ch5_fig11.md)
 
 <img src="Figs/ch5_fig10.png" alt="Figure 06" style="zoom: 100%;" />.
+
 **Figure 10:** Field experiment result of $V_S$ from data as in Figure 3(a) and Figure a(c). (a) initial S-wave velocity model used for inversion; (b) inverted result at banwidth of 5-10 Hz, 20-30 Hz, 40-50 Hz, respectively. (good to put the initial model as a separate figure)
     
 
