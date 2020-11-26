@@ -11,7 +11,7 @@ This site host a series of codes I developed during my Ph.D. I think it is good 
 - Diffraction imaging by multi-path summation;
 - Partical Swarm Optimisation;
 - Common-reflection Stacking (CRS) for reflection imaging;
-- [Decompress vibrator seismic data and set geometry](man/man1_st01.md)
+- [Decompress vibrator seismic data and set geometry](man1/man1_st01.md)
 
 I also present all the scripts that I used to prepare the following papers:
 - [Near-surface diffractor detection  based on an interferometric workflow](ch3/ch3_main.md)
