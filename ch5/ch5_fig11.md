@@ -3,6 +3,7 @@
 - [Next figure](ch5_fig11.md)
 
 <img src="Figs/ch5_fig11.png" alt="Figure 06" style="zoom: 120%;" />.
+
 **Figure 11:** 3D view of the inverted subsurface S-wave velocities along Line A and Line B.
     
 
