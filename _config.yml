@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: jianhuanliu/modernist
 title: Welcome to my first Website!
 description: Near-surface Seismic Imaging Tools
 author:
